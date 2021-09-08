@@ -5,6 +5,7 @@ st.title("My Insurance Prediction Website")
 st.markdown("### The ML model uses Linear Refression Algo to make predictions")
 
 st.title('Welcome')
+st.image("welcome1.jpg")
 st.markdown('In this app We will predict your Insurance Charges by  takig some Inputs')
 st.markdown('Go to next Prediction Page to do the Prediction')
 
